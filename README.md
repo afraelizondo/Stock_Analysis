@@ -46,13 +46,13 @@ In the previous project we made a process called Code Refactoring, which means t
 5. Clean code with shorter and self-contained methods. 
 6. Better testability. 
 
-Even though it has many advantages, there are somo disadvantages as well: 
+Even though it has many advantages, there are some disadvantages as well: 
 1. The possibility of introduction of new bugs and errors. 
 2. No clear definition of "neat code".
-3. In a team work, it requires higher coordination than expected.
+3. In team work, it requires higher coordination than expected.
 4. Sometimes the benefit is not self-evident due to the fact that the functionality stays exactly the same. 
 
-These pros applied to our VBA macro because we were able to change the code and make it run faster than the first time. 
+These pros were applied to our VBA macro, and we were able to change the code and make it run faster than the first time. 
 
 Also, to check if the current row was the first row with selected ticker and the last row with selected ticker using the *if* function, instead of only checking the starting and ending prices. We were able to make this in less steps than the first time. 
 

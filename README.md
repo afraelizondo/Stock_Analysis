@@ -36,21 +36,27 @@ In the execution statements we considerably improve, as is shown in Image 1 (ori
 
 
 
+## Summary
 
+In the previous project we made a process called Code Refactoring, which means the restructuration of the code without changing the original function or external behavior. This brings a lot of benefits to the coding process, because it improves the productivity and implies techniques to make the code faster to execute. We can list some of the advantages of the mentioned process:
+1. Helps to find bugs.
+2. Improves software design and makes it easier to understand. 
+3. Avoids code duplications.
+4. Removes excessive or confusing code. 
+5. Clean code with shorter and self-contained methods. 
+6. Better testability. 
 
+Even though it has many advantages, there are somo disadvantages as well: 
+1. The possibility of introduction of new bugs and errors. 
+2. No clear definition of "neat code".
+3. In a team work, it requires higher coordination than expected.
+4. Sometimes the benefit is not self-evident due to the fact that the functionality stays exactly the same. 
 
+These pros applied to our VBA macro because we were able to change the code and make it run faster than the first time. 
 
+Also, to check if the current row was the first row with selected ticker and the last row with selected ticker using the *if* function, instead of only checking the starting and ending prices. We were able to make this in less steps than the first time. 
 
-
-
-
-
-
-
-
-
-
-
+And finally, we made one *for loop* with outputs of ticker, total daily volume and return, instead of making 3 different ones. 
 
 ## ***Bibliography***
 
